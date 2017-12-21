@@ -1,0 +1,27 @@
+*.py[cod]
+dist/
+npm-debug.log
+
+# C extensions
+*.so
+
+# Installer logs
+pip-log.txt
+
+# Mac
+.DS_Store
+
+# Fire.app
+Thumbs.db
+*~
+.coffeescript-cache
+.sass-cache
+compass_app_log.txt
+fire_app_log.txt
+document_root
+tmp
+.bundle
+
+node_modules
+venv
+application.cfg
